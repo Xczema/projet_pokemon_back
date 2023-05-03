@@ -22,6 +22,8 @@ import com.intiformation.service.PokemonService;
 public class PokemonController {
 	
 	// Un commentaire que j'ajoute pour faire une modification (Git hub)
+	
+	// un deuxieme commentaire a été rajouté (Le repo distant est différent du local. Il y a une modif présente sur le repo distant mais sur le local)
 	@Autowired
 	PokemonService pokemonService;
 	
